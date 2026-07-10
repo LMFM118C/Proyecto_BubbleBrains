@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BubbleBrainAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fac0d7d06e265879d919c964cd6640abc86eb5a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("BubbleBrainAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BubbleBrainAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
