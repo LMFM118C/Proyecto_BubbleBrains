@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Alumno1\\Desktop\\BubbleBrainsAPI\\BubbleBrainAPI\\BubbleBrainAPI.csproj": {}
+    "C:\\Users\\Alumno1\\Desktop\\Proyecto_BubbleBrains\\BubbleBrainBack\\BubbleBrainAPI\\BubbleBrainAPI.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Alumno1\\Desktop\\BubbleBrainsAPI\\BubbleBrainAPI\\BubbleBrainAPI.csproj": {
+    "C:\\Users\\Alumno1\\Desktop\\Proyecto_BubbleBrains\\BubbleBrainBack\\BubbleBrainAPI\\BubbleBrainAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Alumno1\\Desktop\\BubbleBrainsAPI\\BubbleBrainAPI\\BubbleBrainAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Alumno1\\Desktop\\Proyecto_BubbleBrains\\BubbleBrainBack\\BubbleBrainAPI\\BubbleBrainAPI.csproj",
         "projectName": "BubbleBrainAPI",
-        "projectPath": "c:\\Users\\Alumno1\\Desktop\\BubbleBrainsAPI\\BubbleBrainAPI\\BubbleBrainAPI.csproj",
+        "projectPath": "C:\\Users\\Alumno1\\Desktop\\Proyecto_BubbleBrains\\BubbleBrainBack\\BubbleBrainAPI\\BubbleBrainAPI.csproj",
         "packagesPath": "C:\\Users\\Alumno1\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Alumno1\\Desktop\\BubbleBrainsAPI\\BubbleBrainAPI\\obj\\",
+        "outputPath": "C:\\Users\\Alumno1\\Desktop\\Proyecto_BubbleBrains\\BubbleBrainBack\\BubbleBrainAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
