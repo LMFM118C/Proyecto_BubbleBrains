@@ -1,20 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "+PddWPwR0VA=",
+  "dgSpecHash": "WLgdj+3Sy5w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alumno15\\source\\repos\\BubbleBrainAPI\\BubbleBrainAPI\\BubbleBrainAPI.csproj",
+  "projectFilePath": "c:\\Users\\Alumno1\\Desktop\\BubbleBrainsAPI\\BubbleBrainAPI\\BubbleBrainAPI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Alumno15\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
-    "C:\\Users\\Alumno15\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+    "C:\\Users\\Alumno1\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "C:\\Users\\Alumno1\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1903",
       "level": "Warning",
-      "message": "El paquete \"Microsoft.OpenApi\" 2.0.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
-      "projectPath": "C:\\Users\\Alumno15\\source\\repos\\BubbleBrainAPI\\BubbleBrainAPI\\BubbleBrainAPI.csproj",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "c:\\Users\\Alumno1\\Desktop\\BubbleBrainsAPI\\BubbleBrainAPI\\BubbleBrainAPI.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Alumno15\\source\\repos\\BubbleBrainAPI\\BubbleBrainAPI\\BubbleBrainAPI.csproj",
+      "filePath": "c:\\Users\\Alumno1\\Desktop\\BubbleBrainsAPI\\BubbleBrainAPI\\BubbleBrainAPI.csproj",
       "libraryId": "Microsoft.OpenApi",
       "targetGraphs": [
         "net10.0"

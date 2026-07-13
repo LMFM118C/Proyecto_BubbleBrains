@@ -83,23 +83,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alumno15\\.nuget\\packages\\": {},
+    "C:\\Users\\Alumno1\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alumno15\\source\\repos\\BubbleBrainAPI\\BubbleBrainAPI\\BubbleBrainAPI.csproj",
+      "projectUniqueName": "c:\\Users\\Alumno1\\Desktop\\BubbleBrainsAPI\\BubbleBrainAPI\\BubbleBrainAPI.csproj",
       "projectName": "BubbleBrainAPI",
-      "projectPath": "C:\\Users\\Alumno15\\source\\repos\\BubbleBrainAPI\\BubbleBrainAPI\\BubbleBrainAPI.csproj",
-      "packagesPath": "C:\\Users\\Alumno15\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alumno15\\source\\repos\\BubbleBrainAPI\\BubbleBrainAPI\\obj\\",
+      "projectPath": "c:\\Users\\Alumno1\\Desktop\\BubbleBrainsAPI\\BubbleBrainAPI\\BubbleBrainAPI.csproj",
+      "packagesPath": "C:\\Users\\Alumno1\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Alumno1\\Desktop\\BubbleBrainsAPI\\BubbleBrainAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Alumno15\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Alumno1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -582,7 +582,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"Microsoft.OpenApi\" 2.0.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
       "libraryId": "Microsoft.OpenApi",
       "targetGraphs": [
         "net10.0"
